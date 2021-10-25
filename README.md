@@ -1,12 +1,10 @@
-
-
-##Analyze A/B Test Results
+#(Analyze A/B Test Results)
 
 This project will assure you have mastered the subjects covered in the statistics lessons.
 The hope is to have this project be as comprehensive of these topics as possible. Good luck!
 
 
-##Introduction
+#(Introduction)
 
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get 
 some practice working with the difficulties of these For this project, you will be working to understand 
